@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Backing App</string>
+    <string name="prev_btn">Pre</string>
+    <string name="next_btn">Next</string>
+    <string name="Recipes_API">https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="not_exist">Movie Not Exist</string>
+    <string name="two_pane">TwoPane</string>
+    <string name="one_pane">OnePane</string>
+    <string name="empty">empty!</string>
+    <string name="pending_connection">Network Connection is Disabled!</string>
+</resources>
